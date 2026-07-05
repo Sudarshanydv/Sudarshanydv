@@ -65,14 +65,13 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&theme=dark&hide_border=false&layout=compact" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshanydv&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true" />
 </p>
-
 ## 🌸 DevOps Inspiration 🌸
 
 <p align="center">
