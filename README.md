@@ -24,7 +24,7 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 - 🎯 **Goal for 2026:** Become a Senior DevOps & Platform Engineer while contributing to Open Source
 - 📫 **How to reach me:** **Sudarshanyadav4080@gmail.com**
 - 💼 **Portfolio:** Coming Soon...
-- 🔗 **LinkedIn:** *([Add your LinkedIn Profile](https://www.linkedin.com/in/sudarshan-yadav/))*
+- 🔗 **LinkedIn:** *((https://www.linkedin.com/in/sudarshan-yadav/))*
 - 😄 **Pronouns:** He/Him (Sudarshan)
 - ⚡ **Fun fact:** I love automating everything I can and enjoy turning complex infrastructure into simple, scalable solutions.
 
