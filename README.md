@@ -51,17 +51,14 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 
 
-
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash" height="42"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=trivy" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" height="42"/>
-### 📊 Monitoring & Databases
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres" height="42"/>
-### 💻 Programming & Scripting
-<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash,python,mysql,postgres,prometheus,grafana,helm" />
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48"/>
+<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48"/>
+<img src="https://cdn.simpleicons.org/aquasecurity/1904DA" height="48"/>
+</p>
 
 
 
