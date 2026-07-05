@@ -53,28 +53,16 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 
-### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash,python,prometheus,grafana,mysql,postgres" />
-</p>
-
-### 🚀 GitOps & DevSecOps
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="48" />
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="48" />
-<img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" height="48" />
-<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="48" />
-</p>
-
-### ☁️ AWS Services
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,s3,iam,vpc,rds,route53,cloudwatch,eks" />
-</p>
 
 
 # 💻 Tech Stack:
