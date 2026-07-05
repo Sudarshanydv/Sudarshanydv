@@ -10,9 +10,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ## 😊 About Me 😊
 
-🔭 **Currently Working On**
-- AWS DevOps Engineer at --- Company
-
 ## 🔗 I am a DevOps Engineer. 😊😊
 
 - 🔭 **I'm currently working on:** AWS DevOps Engineer | Cloud Infrastructure | CI/CD Automation
