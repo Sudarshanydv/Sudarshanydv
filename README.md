@@ -54,23 +54,24 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & AWS
-<img src="https://skillicons.dev/icons?i=aws" height="42"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform" height="42"/>
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash" height="42"/>
 
-### 🚀 DevOps & CI/CD
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,ansible,git,github,linux,bash" height="42"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=argocd,helm,trivy" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" height="42"/>
 
-### ☸️ GitOps & Container Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=argocd,helm,trivy" height="42"/> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" height="42"/>
+---
 
-### 📊 Monitoring
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="42"/>
+### 📊 Monitoring & Databases
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres" height="42"/>
 
-### 💻 Programming
+---
+
+### 💻 Programming & Scripting
 <img src="https://skillicons.dev/icons?i=python" height="42"/>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres" height="42"/>
+
+
 
 
 # 💻 Tech Stack:
