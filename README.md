@@ -1,5 +1,11 @@
 # 💫 Hi 👋, I'm Sudarshan Yadav ...
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Sudarshan+Yadav;AWS+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+GitHub+Actions+%7C+ArgoCD;Building+Scalable+Cloud+Infrastructure;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
 ## AWS DevOps Engineer | Cloud Engineer | CI/CD & Kubernetes Enthusiast | India 🇮🇳
 
 I am an AWS DevOps Engineer with **2.5+ years of professional experience** in designing, automating, and managing cloud infrastructure. I enjoy building scalable, secure, and highly available applications using AWS and modern DevOps practices.
@@ -65,9 +71,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ## 🌸 DevOps Inspiration 🌸
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repositories
-![](https://github-profile-trophy.vercel.app/?username=Sudarshanydv&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 
