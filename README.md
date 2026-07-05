@@ -47,22 +47,7 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-## 🛠️ Tech Stack
-
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-
-
+![](https://github-profile-trophy.vercel.app/?username=Sudarshanydv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
@@ -80,15 +65,39 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Sudarshanydv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sudarshanydv&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&theme=dark&hide_border=false&layout=compact" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshanydv&theme=dark&hide_border=false" />
+</p>
 
 ## 🌸 DevOps Inspiration 🌸
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ## 📈 Contribution Graph
 
 [![Sudarshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudarshanydv&theme=tokyo-night)](https://github.com/Sudarshanydv)
 
+
+---
+
+<div align="center">
+
+### 💡 *"Building the future, one deployment at a time."* 🚀
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sudarshanydv&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sudarshanydv?label=GitHub%20Followers&style=for-the-badge&color=181717" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Sudarshanydv?affiliations=OWNER&style=for-the-badge&color=FFD700" alt="GitHub Stars" />
+</p>
+
+### ⭐ Thanks for visiting my profile! Happy Coding! 🚀
+
+</div>
 
