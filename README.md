@@ -58,15 +58,27 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=false&theme=tokyonight&hide_border=false&count_private=false&cache_seconds=1800"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true" />
 </p>
 
 
