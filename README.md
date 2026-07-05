@@ -78,7 +78,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 </tr>
 
 <tr>
-<td colspan="0" align="center">
 
 <img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true"/>
 
