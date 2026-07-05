@@ -24,15 +24,14 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 - 🎯 **Goal for 2026:** Become a Senior DevOps & Platform Engineer while contributing to Open Source
 - 📫 **How to reach me:** **Sudarshanyadav4080@gmail.com**
 - 💼 **Portfolio:** Coming Soon...
-- 🔗 **LinkedIn:** *(Add your LinkedIn Profile)*
-- ▶️ **YouTube:** *(Add your YouTube Channel)*
+- 🔗 **LinkedIn:** *([Add your LinkedIn Profile](https://www.linkedin.com/in/sudarshan-yadav/))*
 - 😄 **Pronouns:** He/Him (Sudarshan)
 - ⚡ **Fun fact:** I love automating everything I can and enjoy turning complex infrastructure into simple, scalable solutions.
 
 
 💼 Feel free to connect with me on LinkedIn for project collaborations, technical discussions, or freelance opportunities.
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+[![Linkdin Profile]([https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white](https://www.linkedin.com/in/sudarshan-yadav/))] 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
