@@ -1,7 +1,18 @@
 # 💫 Hi 👋, I'm Sudarshan Yadav ...
-**A passionate Cloud Engineer || DevOps Engineer ||  from India**
+
+## AWS DevOps Engineer | Cloud Engineer | CI/CD & Kubernetes Enthusiast | India 🇮🇳
+I am an AWS DevOps Engineer with **2.5+ years of professional experience** in designing, automating, and managing cloud infrastructure. I enjoy building scalable, secure, and highly available applications using AWS and modern DevOps practices.
 
 Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+---
+
+## 🚀 About Me
+
+🔭 **Currently Working On**
+- AWS DevOps Engineer at Tapbotic AI Pvt. Ltd.
+
+## 🔗 I am a DevOps Engineer. 😊😊
 
 - 🔭 **I’m currently working on:** AWS Devops Engineer
 - 🌱 **I’m currently learning:** How to Build Devops Infrastructure
@@ -12,7 +23,68 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Sudarshan
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a DevOps Engineer. 😊😊
+🌱 **Currently Learning**
+- Platform Engineering
+- Agentic AI
+- Advanced Kubernetes
+- Cloud Security
+- GitOps
+
+👯 **Looking to Collaborate On**
+- Open Source DevOps Projects
+- AWS Cloud Projects
+- Kubernetes & Infrastructure Automation
+
+🤝 **Looking for Help With**
+- Large-scale Kubernetes Deployments
+- Platform Engineering
+- AI-powered DevOps Automation
+
+💬 **Ask Me About**
+- AWS
+- Terraform
+- Docker
+- Kubernetes (EKS)
+- Jenkins
+- GitHub Actions
+- ArgoCD
+- Linux
+- Ansible
+- CI/CD Pipelines
+- Infrastructure as Code (IaC)
+- Monitoring with Prometheus & Grafana
+
+📫 **Reach Me At**
+- 📧 Sudarshanyadav4080@gmail.com
+- 💼 LinkedIn: *([Add your profile link](https://www.linkedin.com/in/sudarshan-yadav/))*
+- ▶️ YouTube: *(channel link)*
+
+⚡ **Fun Fact**
+I enjoy learning new cloud technologies, building automation solutions, creating technical content, and sharing DevOps knowledge.
+
+---
+
+# 🛠 Tech Stack
+
+### ☁️ Cloud
+- AWS (EC2, VPC, IAM, S3, EKS, ECS, RDS, Route53, CloudWatch, ALB, Auto Scaling)
+
+### 🚀 DevOps
+- Docker
+- Kubernetes (Amazon EKS)
+- Terraform
+- Jenkins
+- GitHub Actions
+- ArgoCD
+- Helm
+- Ansible
+
+### 💻 Programming & Scripting
+- Python
+- Bash
+
+### 🐧 Operating Systems
+- Linux (Ubuntu, Amazon Linux)
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
