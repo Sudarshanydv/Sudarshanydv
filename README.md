@@ -30,6 +30,12 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-yadav/) 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudarshan-yadav/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudarshan%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
