@@ -28,8 +28,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 💼 Feel free to connect with me on LinkedIn for project collaborations, technical discussions, or freelance opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-yadav/) 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sudarshan-yadav/">
     <img src="https://img.shields.io/badge/LinkedIn-Sudarshan%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
