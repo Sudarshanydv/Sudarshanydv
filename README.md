@@ -64,22 +64,28 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ## 🌸 DevOps Inspiration 🌸
