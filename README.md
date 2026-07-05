@@ -46,9 +46,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sudarshanydv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon VPC](https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) ![Amazon Route53](https://img.shields.io/badge/Amazon_Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white) ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white) ![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -64,16 +61,14 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ## 🌸 DevOps Inspiration 🌸
 
