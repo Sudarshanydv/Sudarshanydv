@@ -53,13 +53,25 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash,python,mysql,postgres,prometheus,grafana,helm" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash,python,mysql,postgres,prometheus,grafana" />
+</p>
+
+### 🚀 GitOps & DevSecOps
+<p>
+<img src="https://skillicons.dev/icons?i=helm" />
 <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48"/>
 <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48"/>
 <img src="https://cdn.simpleicons.org/aquasecurity/1904DA" height="48"/>
 </p>
 
+### ☁️ AWS Services
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,s3,vpc,iam,rds,route53,cloudwatch,eks" />
+</p>
 
 
 
