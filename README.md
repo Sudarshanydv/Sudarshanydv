@@ -67,5 +67,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repositories
-![](https://github-profile-trophy.vercel.app/?username=Sudarshanydv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sudarshanydv&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
