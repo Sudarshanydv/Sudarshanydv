@@ -60,30 +60,15 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<table>
-<tr>
-<td>
+| GitHub Stats | Most Used Languages |
+|:-------------:|:------------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true"/> |
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-
-<tr>
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 
 
