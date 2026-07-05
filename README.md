@@ -56,24 +56,25 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash,python,mysql,postgres,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash,python,prometheus,grafana,mysql,postgres" />
 </p>
 
 ### 🚀 GitOps & DevSecOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=helm" />
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48"/>
-<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48"/>
-<img src="https://cdn.simpleicons.org/aquasecurity/1904DA" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="48" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="48" />
+<img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" height="48" />
+<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="48" />
 </p>
 
 ### ☁️ AWS Services
+
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,s3,vpc,iam,rds,route53,cloudwatch,eks" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,s3,iam,vpc,rds,route53,cloudwatch,eks" />
 </p>
-
-
 
 
 # 💻 Tech Stack:
