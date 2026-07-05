@@ -62,16 +62,15 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
+
+## 💻 Currently Working On
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sudarshan+Yadav;AWS+DevOps+Engineer;Cloud+Infrastructure+%26+Automation;Terraform+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+GitHub+Actions+%7C+ArgoCD;DevSecOps+%7C+Trivy+%7C+SonarQube;Monitoring+with+Prometheus+%26+Grafana;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true" />
-</p>
+
+
 ## 🌸 DevOps Inspiration 🌸
 
 <p align="center">
