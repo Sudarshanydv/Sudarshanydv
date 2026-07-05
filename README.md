@@ -60,16 +60,11 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 📊 GitHub Analytics
-
-| GitHub Stats | Most Used Languages |
-|:-------------:|:------------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=true&theme=tokyonight&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=true"/> |
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true"/>
+  <img width="85%" src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=7AA2F7&fire=BB9AF7&currStreakLabel=BB9AF7&sideLabels=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=73DACA" />
 </p>
-
 
 
 ## 🌸 DevOps Inspiration 🌸
