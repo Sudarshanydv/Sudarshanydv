@@ -61,7 +61,7 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=false&theme=tokyonight&hide_border=true&count_private=false&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudarshanydv&show_icons=false&theme=tokyonight&hide_border=false&count_private=false&cache_seconds=1800"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshanydv&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
 </p>
 
