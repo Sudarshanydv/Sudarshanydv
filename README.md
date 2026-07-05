@@ -63,7 +63,7 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=7AA2F7&fire=BB9AF7&currStreakLabel=BB9AF7&sideLabels=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=73DACA" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Sudarshanydv&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=7AA2F7&fire=BB9AF7&currStreakLabel=BB9AF7&sideLabels=7AA2F7&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=73DACA" />
 </p>
 
 
