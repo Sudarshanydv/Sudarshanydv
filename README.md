@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ---
 
-## 🚀 About Me
+## 😊 About Me 😊
 
 🔭 **Currently Working On**
 - AWS DevOps Engineer at --- Company
@@ -32,8 +32,6 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 💼 Feel free to connect with me on LinkedIn for project collaborations, technical discussions, or freelance opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-yadav/) 
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
 
