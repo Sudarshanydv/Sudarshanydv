@@ -56,7 +56,7 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,git,github,linux,bash" height="42"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=argocd,helm,trivy" height="42"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=trivy" height="42"/>
 <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" height="42"/>
 ### 📊 Monitoring & Databases
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres" height="42"/>
