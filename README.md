@@ -1,6 +1,7 @@
 # 💫 Hi 👋, I'm Sudarshan Yadav ...
 
 ## AWS DevOps Engineer | Cloud Engineer | CI/CD & Kubernetes Enthusiast | India 🇮🇳
+
 I am an AWS DevOps Engineer with **2.5+ years of professional experience** in designing, automating, and managing cloud infrastructure. I enjoy building scalable, secure, and highly available applications using AWS and modern DevOps practices.
 
 Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -10,83 +11,26 @@ Email Me 👉 ✉️ **Sudarshanyadav4080@gmail.com** For Collaboration/Project 
 ## 🚀 About Me
 
 🔭 **Currently Working On**
-- AWS DevOps Engineer at Tapbotic AI Pvt. Ltd.
+- AWS DevOps Engineer at --- Company
 
 ## 🔗 I am a DevOps Engineer. 😊😊
 
-- 🔭 **I’m currently working on:** AWS Devops Engineer
-- 🌱 **I’m currently learning:** How to Build Devops Infrastructure
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Sudarshanyadav4080@gmail.com
-- 😄 **Pronouns:** Sudarshan
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I'm currently working on:** AWS DevOps Engineer | Cloud Infrastructure | CI/CD Automation
+- 🌱 **I'm currently learning:** Platform Engineering, Agentic AI, Advanced Kubernetes & Cloud Security
+- 👯 **I'm looking to collaborate on:** Open Source DevOps, Cloud, Kubernetes, and Automation Projects
+- 🤝 **I'm looking for help with:** Large-Scale Cloud Architecture, Platform Engineering & AI-powered DevOps
+- 💬 **Ask me about:** AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Linux & DevOps
+- 📚 **Currently exploring:** GitOps, ArgoCD, Helm, Observability & Infrastructure as Code (IaC)
+- 🎯 **Goal for 2026:** Become a Senior DevOps & Platform Engineer while contributing to Open Source
+- 📫 **How to reach me:** **Sudarshanyadav4080@gmail.com**
+- 💼 **Portfolio:** Coming Soon...
+- 🔗 **LinkedIn:** *(Add your LinkedIn Profile)*
+- ▶️ **YouTube:** *(Add your YouTube Channel)*
+- 😄 **Pronouns:** He/Him (Sudarshan)
+- ⚡ **Fun fact:** I love automating everything I can and enjoy turning complex infrastructure into simple, scalable solutions.
 
-🌱 **Currently Learning**
-- Platform Engineering
-- Agentic AI
-- Advanced Kubernetes
-- Cloud Security
-- GitOps
 
-👯 **Looking to Collaborate On**
-- Open Source DevOps Projects
-- AWS Cloud Projects
-- Kubernetes & Infrastructure Automation
-
-🤝 **Looking for Help With**
-- Large-scale Kubernetes Deployments
-- Platform Engineering
-- AI-powered DevOps Automation
-
-💬 **Ask Me About**
-- AWS
-- Terraform
-- Docker
-- Kubernetes (EKS)
-- Jenkins
-- GitHub Actions
-- ArgoCD
-- Linux
-- Ansible
-- CI/CD Pipelines
-- Infrastructure as Code (IaC)
-- Monitoring with Prometheus & Grafana
-
-📫 **Reach Me At**
-- 📧 Sudarshanyadav4080@gmail.com
-- 💼 LinkedIn: *([Add your profile link](https://www.linkedin.com/in/sudarshan-yadav/))*
-- ▶️ YouTube: *(channel link)*
-
-⚡ **Fun Fact**
-I enjoy learning new cloud technologies, building automation solutions, creating technical content, and sharing DevOps knowledge.
-
----
-
-# 🛠 Tech Stack
-
-### ☁️ Cloud
-- AWS (EC2, VPC, IAM, S3, EKS, ECS, RDS, Route53, CloudWatch, ALB, Auto Scaling)
-
-### 🚀 DevOps
-- Docker
-- Kubernetes (Amazon EKS)
-- Terraform
-- Jenkins
-- GitHub Actions
-- ArgoCD
-- Helm
-- Ansible
-
-### 💻 Programming & Scripting
-- Python
-- Bash
-
-### 🐧 Operating Systems
-- Linux (Ubuntu, Amazon Linux)
-
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+💼 Feel free to connect with me on LinkedIn for project collaborations, technical discussions, or freelance opportunities.
 
 [![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
 
